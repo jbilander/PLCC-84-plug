@@ -1,2 +1,2 @@
 # PLCC-84-plug
-A PLCC-84 plug adapter created from stacking PCBs
+A PLCC-84 plug adapter created from PCBs
