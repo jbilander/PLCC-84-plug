@@ -3,6 +3,35 @@ A PLCC-84 plug adapter created out of PCBs
 
 ***
 Please note, The first revision Rev1A of this plug isn't optimal for SMD-sockets, it is a little too small to give a solid connection on all pins. It fits well and gives good connection in the seemingly tighter PLCC-84-TH-sockets though. A new revision 1B is in the works aiming for that 30.1-30.2 mm sweetspot.
+
+_UPDATE: The Rev.1B is finished and gerbers available for download under Releases as well:_
+
+***
+
+REV 1B:
+
+<br />
+<a href="images/PLCC_84_Plug_build_pic13.jpg">
+<img src="images/PLCC_84_Plug_build_pic13.jpg" width="512" height="384">
+</a>
+<br />
+
+Suitable pin headers to use with this plug:<br />
+1.27 mm 50 P 1 x 50 Pin Header Single row Right Angle Male<br />
+https://www.aliexpress.com/item/32767692043.html
+<br /><br />
+If you use the pins from the link (0.4mm square) you will get to ~30.2 mm, with the MPE 332-1-040 pins you will end up at ~30.4mm which is perhaps a bit too much for a TH-socket.
+<br /><br />
+<a href="images/PLCC_84_Plug_build_pic16.jpg.jpg">
+<img src="images/PLCC_84_Plug_build_pic16.jpg" width="256" height="192">
+</a>
+<a href="images/PLCC_84_Plug_build_pic15.jpg">
+<img src="images/PLCC_84_Plug_build_pic15.jpg" width="256" height="192">
+</a>
+<a href="images/PLCC_84_Plug_build_pic14.jpg.jpg">
+<img src="images/PLCC_84_Plug_build_pic14.jpg" width="256" height="192">
+</a>
+
 ***
 
 REV 1A:
@@ -12,8 +41,6 @@ REV 1A:
 <img src="images/PLCC_84_HomebrewPlug_rev1a_vs_Winslow_plug.jpg" width="512" height="192">
 </a>
 <br />
-
-***
 
 Suitable pin headers to use building this plug:<br />
 _MPE 332-1-040 Pin headers 2.00 mm, 1X40, angled_ <br />
@@ -59,6 +86,16 @@ To remove the pins from the plastic strip give them a push with a heated solder 
 </a>
 <a href="images/PLCC_84_Plug_build_pic8.jpg">
 <img src="images/PLCC_84_Plug_build_pic8.jpg" width="256" height="192">
+</a>
+
+***
+
+I discovered a good technique to use when soldering the 0.4mm square pins (1.27 mm pin pitch) is to reuse the plastic like in picture below while soldering to get everything to align and look very nice.
+
+***
+
+<a href="images/PLCC_84_Plug_build_pic17.jpg">
+<img src="images/PLCC_84_Plug_build_pic17.jpg" width="512" height="384">
 </a>
 
 ***
