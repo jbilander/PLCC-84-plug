@@ -22,14 +22,30 @@ https://www.aliexpress.com/item/32767692043.html
 <br /><br />
 If you use the pins from the link (0.4mm square) you will get to ~30.2 mm, with the MPE 332-1-040 pins you will end up at ~30.4mm which is perhaps a bit too much for a TH-socket.
 <br /><br />
-<a href="images/PLCC_84_Plug_build_pic16.jpg.jpg">
+<a href="images/PLCC_84_Plug_build_pic16.jpg">
 <img src="images/PLCC_84_Plug_build_pic16.jpg" width="256" height="192">
 </a>
 <a href="images/PLCC_84_Plug_build_pic15.jpg">
 <img src="images/PLCC_84_Plug_build_pic15.jpg" width="256" height="192">
 </a>
-<a href="images/PLCC_84_Plug_build_pic14.jpg.jpg">
+<a href="images/PLCC_84_Plug_build_pic14.jpg">
 <img src="images/PLCC_84_Plug_build_pic14.jpg" width="256" height="192">
+</a>
+
+***
+
+With this kind of footprint on the PCB it will take both variants of the plug. Both one with the angled SMT headers like above and one with straight TH-pins like on pics below. As you can see there's no need for the base PCB in the latter case since that footprint is now directly on the main PCB.
+
+***
+
+<a href="images/PLCC_84_Plug_build_pic18.jpg">
+<img src="images/PLCC_84_Plug_build_pic18.jpg" width="256" height="192">
+</a>
+<a href="images/PLCC_84_Plug_build_pic19.jpg">
+<img src="images/PLCC_84_Plug_build_pic19.jpg" width="256" height="192">
+</a>
+<a href="images/PLCC_84_Plug_build_pic20.jpg">
+<img src="images/PLCC_84_Plug_build_pic20.jpg" width="256" height="192">
 </a>
 
 ***
