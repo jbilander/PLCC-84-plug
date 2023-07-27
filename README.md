@@ -2,9 +2,9 @@
 A PLCC-84 plug adapter created out of PCBs
 
 ***
-Please note, The first revision Rev1A of this plug isn't optimal for SMD-sockets, it is a little too small to give a solid connection on all pins. It fits well and gives good connection in the seemingly tighter PLCC-84-TH-sockets though. A new revision 1B is in the works aiming for that 30.1-30.2 mm sweetspot.
+Please note, The first revision Rev1A of this plug isn't optimal for SMD-sockets, it is a little too small to give a solid connection on all pins. It fits well and gives good connection in the seemingly tighter PLCC-84-TH-sockets though. A new revision 1C is in the works aiming for that 30.1-30.2 mm sweetspot.
 
-_UPDATE: The Rev.1B is finished and gerbers available for download under Releases as well:_
+_UPDATE: The Rev.1C is finished and gerbers available for download under Releases as well:_
 
 ***
 
