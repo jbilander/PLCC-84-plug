@@ -8,6 +8,13 @@ _UPDATE: The Rev.1C is finished and gerbers available for download under Release
 
 ***
 
+REV 1C:<br /><br />
+<a href="images/PLCC_84_Plug_pcbs_rev1c.jpg">
+<img src="images/PLCC_84_Plug_pcbs_rev1c.jpg" width="800" height="424">
+</a>
+
+***
+
 REV 1B:
 
 <br />
@@ -155,14 +162,6 @@ They are not optimal in terms of pin-terminal length. <br />
 <a href="images/PLCC_84_Plug_build.jpg">
 <img src="images/PLCC_84_Plug_build.jpg" width="660" height="330">
 </a>
-
-***
-REV 1A dimensions:<br /><br />
-<a href="images/PLCC_84_Plug_pcbs.jpg">
-<img src="images/PLCC_84_Plug_pcbs.jpg" width="660" height="660">
-</a>
-
-
 
 ***
 
